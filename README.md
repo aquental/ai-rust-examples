@@ -9,6 +9,7 @@ brew install fermyon/tap/spin
 
 ### Fermyon Cloud [onboarding](https://cloud.fermyon.com/onboarding)
 
+## Youtube video : [Build your first AI app in Rust using Serverless AI Inferencing](https://www.youtube.com/watch?v=TyP-BSy-gi4&t=28)
 ### Creating a New Spin Application [Build HelloWorld app](https://developer.fermyon.com/spin/v2/serverless-ai-hello-world.md)
 
 ```Script
